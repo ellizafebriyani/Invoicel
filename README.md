@@ -1,4 +1,4 @@
-INVOICEL MAKER PROJECT USING REACT, TYPESCRIPT, VITE, AND TAILWIND CSS
+INVOICE MAKER PROJECT USING REACT, TYPESCRIPT, VITE, AND TAILWIND CSS
  <img width="823" height="431" alt="image" src="https://github.com/user-attachments/assets/c46f622c-9f98-4347-b910-9dc396eda105" />
 
 <img width="955" height="427" alt="image" src="https://github.com/user-attachments/assets/4de61565-e5d6-4d7c-88e4-8d2956d98e1e" />
